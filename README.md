@@ -443,3 +443,4 @@ Make sure to update the `cprest` and `intent_host` to match this callback URL .
  * Note that the emulators (both the Google-provided x86 and Genymotion versions) for API 24+ versions can introduce intermittent issues when initiating the OAuth flow for the first time.  For best results, use an device for this project.
 "# SimpleTwitter" 
 "# SimpleTwitter" 
+"# SimpleTwitter1" 
